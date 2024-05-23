@@ -1,0 +1,611 @@
+.portfolio {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.portfolio .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1980px;
+  height: 3840px;
+  position: relative;
+}
+
+.portfolio .overlap {
+  position: absolute;
+  width: 1980px;
+  height: 3840px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio .background {
+  position: absolute;
+  width: 1980px;
+  height: 3738px;
+  top: 102px;
+  left: 0;
+}
+
+.portfolio .gradient {
+  position: absolute;
+  width: 385px;
+  height: 431px;
+  top: 220px;
+  left: 385px;
+}
+
+.portfolio .header {
+  position: absolute;
+  width: 1980px;
+  height: 138px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio .text-wrapper {
+  position: absolute;
+  width: 66px;
+  height: 27px;
+  top: 42px;
+  left: 1111px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  line-height: normal;
+}
+
+.portfolio .text-wrapper-2 {
+  position: absolute;
+  width: 94px;
+  height: 27px;
+  top: 41px;
+  left: 1322px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  line-height: normal;
+}
+
+.portfolio .text-wrapper-3 {
+  position: absolute;
+  width: 85px;
+  height: 27px;
+  top: 42px;
+  left: 1551px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  line-height: normal;
+}
+
+.portfolio .text-wrapper-4 {
+  position: absolute;
+  width: 125px;
+  height: 27px;
+  top: 42px;
+  left: 1758px;
+  font-family: "Plus Jakarta Sans", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  line-height: normal;
+}
+
+.portfolio .i-m-a-software {
+  position: absolute;
+  width: 674px;
+  height: 90px;
+  top: 660px;
+  left: 474px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.portfolio .judges-a-book-by-its {
+  position: absolute;
+  height: 126px;
+  top: 379px;
+  left: 727px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 50px;
+  letter-spacing: 1px;
+  line-height: 63.3px;
+}
+
+.portfolio .span {
+  color: #ffffff;
+  letter-spacing: 0.5px;
+}
+
+.portfolio .text-wrapper-5 {
+  color: #7127ba;
+  letter-spacing: 0.5px;
+}
+
+.portfolio .text-wrapper-6 {
+  position: absolute;
+  height: 31px;
+  top: 348px;
+  left: 727px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 17px;
+  text-align: center;
+  letter-spacing: 0.34px;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.portfolio .p {
+  position: absolute;
+  height: 20px;
+  top: 508px;
+  left: 727px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 11px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  line-height: normal;
+}
+
+.portfolio .text-wrapper-7 {
+  position: absolute;
+  width: 892px;
+  height: 40px;
+  top: 884px;
+  left: 477px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 22px;
+  letter-spacing: 0.44px;
+  line-height: normal;
+}
+
+.portfolio .hello-i-am-akhil {
+  position: absolute;
+  width: 245px;
+  height: 20px;
+  top: 245px;
+  left: 707px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: -0.5px;
+  line-height: 97px;
+  white-space: nowrap;
+}
+
+.portfolio .text-wrapper-8 {
+  color: #ffffff;
+  letter-spacing: -0.1px;
+}
+
+.portfolio .text-wrapper-9 {
+  color: #7127ba;
+  letter-spacing: -0.1px;
+}
+
+.portfolio .arrow {
+  position: absolute;
+  width: 121px;
+  height: 118px;
+  top: 224px;
+  left: 604px;
+}
+
+.portfolio .ellipse {
+  position: absolute;
+  width: 188px;
+  height: 60px;
+  top: 442px;
+  left: 877px;
+}
+
+.portfolio .text-wrapper-10 {
+  position: absolute;
+  height: 45px;
+  top: 3223px;
+  left: 415px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0.5px;
+  line-height: normal;
+}
+
+.portfolio .i-m-currently {
+  position: absolute;
+  height: 108px;
+  top: 3341px;
+  left: 415px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0.3px;
+  line-height: normal;
+}
+
+.portfolio .logo {
+  position: absolute;
+  width: 72px;
+  height: 46px;
+  top: 32px;
+  left: 461px;
+}
+
+.portfolio .designation {
+  position: absolute;
+  width: 1101px;
+  height: 38px;
+  top: 743px;
+  left: 474px;
+}
+
+.portfolio .currently-i-m-a {
+  position: absolute;
+  width: 1099px;
+  height: 38px;
+  top: 0;
+  left: 0;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 21px;
+  letter-spacing: 0.42px;
+  line-height: normal;
+}
+
+.portfolio .text-wrapper-11 {
+  color: #ffffff;
+  letter-spacing: 0.09px;
+}
+
+.portfolio .text-wrapper-12 {
+  color: #7127ba;
+  letter-spacing: 0.09px;
+}
+
+.portfolio .group {
+  position: absolute;
+  width: 1249px;
+  height: 729px;
+  top: 1896px;
+  left: 415px;
+}
+
+.portfolio .overlap-group {
+  position: relative;
+  height: 729px;
+}
+
+.portfolio .img {
+  position: absolute;
+  width: 642px;
+  height: 720px;
+  top: 9px;
+  left: 398px;
+}
+
+.portfolio .gradient-2 {
+  position: absolute;
+  width: 625px;
+  height: 700px;
+  top: 0;
+  left: 624px;
+}
+
+.portfolio .img-2 {
+  position: absolute;
+  width: 583px;
+  height: 341px;
+  top: 191px;
+  left: 587px;
+}
+
+.portfolio .card {
+  top: 315px;
+  position: absolute;
+  width: 669px;
+  height: 165px;
+  left: 0;
+}
+
+.portfolio .portfolio-text {
+  position: absolute;
+  width: 585px;
+  height: 333px;
+  top: 215px;
+  left: 2px;
+}
+
+.portfolio .a-facial-recognition {
+  position: absolute;
+  height: 81px;
+  top: 140px;
+  left: 32px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ccd6f6;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio .overlap-2 {
+  position: absolute;
+  width: 143px;
+  height: 70px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio .text-wrapper-13 {
+  position: absolute;
+  height: 51px;
+  top: 19px;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ccd6f6;
+  font-size: 34px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+}
+
+.portfolio .featured-project {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 0;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #9757d3;
+  font-size: 16px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+}
+
+.portfolio .icon-park-solid-wrapper {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  top: 302px;
+  left: 73px;
+  background-image: url(./img/icon-park-solid-click.svg);
+  background-size: 100% 100%;
+}
+
+.portfolio .icon-park-solid {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio .icon-park-solid-2 {
+  top: 301px;
+  left: 25px;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+}
+
+.portfolio .overlap-wrapper {
+  position: absolute;
+  width: 1511px;
+  height: 641px;
+  top: 2491px;
+  left: 229px;
+}
+
+.portfolio .overlap-3 {
+  position: relative;
+  width: 1517px;
+  height: 641px;
+}
+
+.portfolio .gradient-3 {
+  position: absolute;
+  width: 572px;
+  height: 641px;
+  top: 0;
+  left: 0;
+}
+
+.portfolio .img-3 {
+  position: absolute;
+  width: 583px;
+  height: 341px;
+  top: 164px;
+  left: 186px;
+}
+
+.portfolio .portfolio-text-2 {
+  position: absolute;
+  width: 830px;
+  height: 329px;
+  top: 171px;
+  left: 687px;
+}
+
+.portfolio .overlap-4 {
+  position: absolute;
+  width: 824px;
+  height: 165px;
+  top: 96px;
+  left: 0;
+}
+
+.portfolio .card-2 {
+  top: 0;
+  position: absolute;
+  width: 669px;
+  height: 165px;
+  left: 0;
+}
+
+.portfolio .building-a-kernel {
+  position: absolute;
+  height: 54px;
+  top: 53px;
+  left: 34px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: #ccd6f6;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.portfolio .text-wrapper-14 {
+  position: absolute;
+  height: 51px;
+  top: 24px;
+  left: 377px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #ccd6f6;
+  font-size: 34px;
+  letter-spacing: 0.68px;
+  line-height: normal;
+}
+
+.portfolio .featured-project-2 {
+  position: absolute;
+  height: 24px;
+  top: 0;
+  left: 523px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 600;
+  color: #9757d3;
+  font-size: 16px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+}
+
+.portfolio .img-wrapper {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  top: 298px;
+  left: 596px;
+  background-image: url(./img/icon-park-solid-click-3.svg);
+  background-size: 100% 100%;
+}
+
+.portfolio .icon-park-solid-3 {
+  top: 297px;
+  left: 548px;
+  position: absolute;
+  width: 31px;
+  height: 31px;
+}
+
+.portfolio .skills {
+  position: absolute;
+  width: 895px;
+  height: 754px;
+  top: 1118px;
+  left: 533px;
+}
+
+.portfolio .social-icons {
+  position: absolute;
+  width: 110px;
+  height: 16px;
+  top: 3488px;
+  left: 415px;
+}
+
+.portfolio .me {
+  position: absolute;
+  width: 258px;
+  height: 259px;
+  top: 306px;
+  left: 461px;
+}
+
+.portfolio .text-wrapper-15 {
+  position: absolute;
+  height: 40px;
+  top: 1065px;
+  left: -3977px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 22px;
+  letter-spacing: 0.44px;
+  line-height: normal;
+}
+
+.portfolio .i-m-a-software-2 {
+  height: 63px;
+  top: 300px;
+  left: -6366px;
+  font-family: "Poor Story", Helvetica;
+  position: absolute;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.portfolio .i-m-a-software-3 {
+  height: 60px;
+  top: 626px;
+  left: -5981px;
+  font-family: "Poetsen One", Helvetica;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  color: #000000;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: normal;
+}
+
+.portfolio .linkedin-behance {
+  position: absolute;
+  height: 648px;
+  top: 1883px;
+  left: -4592px;
+  font-family: "Preahvihear", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0.8px;
+  line-height: normal;
+}
