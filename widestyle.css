@@ -54,10 +54,17 @@ button {
 }
 
 .group-1943 {
+  margin-top: 20px;
   position: relative;
 }
 .about{
   height: 1800px;
+}
+.path-91{
+  display: none;
+}
+.button-style-1{
+  display: none;
 }
 .contacts {
   color: #ffffff;
